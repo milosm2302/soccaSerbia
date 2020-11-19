@@ -1,0 +1,1855 @@
+{
+    "players": [
+        {
+          
+          "name": "Komercijalna",
+          "players": [
+            { "id":"Kom1",
+              "name":"Milos Micic",
+              "position":"attack",
+              "stats":{
+                  "goals":"5",
+                  "assists":"2"
+              },
+              "history":{
+                  "2019/20":{
+                      "team":"Komercijalna",
+                      "played":"20",
+                      "goals":"15",
+                      "assists":"12"
+
+                  },
+                  "2018/19":{
+                    "team":"Komercijalna",
+                    "played":"24",
+                    "goals":"12",
+                    "assists":"8"
+
+                },"2017/18":{
+                    "team":"Komercijalna",
+                    "played":"27",
+                    "goals":"10",
+                    "assists":"22"
+
+                }
+
+              },
+              "photo":"MilosMicic.jpg"
+            },
+            {   "id":"Kom2",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Kom3",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Kom4",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Kom5",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Kom6",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Kom6",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              }
+    
+          ]
+        },
+        {
+          
+          "name": "Unicredit",   
+          "players": [
+            { "id":"Uni1",
+              "name":"Milos Micic",
+              "position":"attack",
+              "stats":{
+                  "goals":"5",
+                  "assists":"2"
+              },
+              "history":{
+                  "2019/20":{
+                      "team":"Komercijalna",
+                      "played":"20",
+                      "goals":"15",
+                      "assists":"12"
+
+                  },
+                  "2018/19":{
+                    "team":"Komercijalna",
+                    "played":"24",
+                    "goals":"12",
+                    "assists":"8"
+
+                },"2017/18":{
+                    "team":"Komercijalna",
+                    "played":"27",
+                    "goals":"10",
+                    "assists":"22"
+
+                }
+
+              },
+              "photo":"MilosMicic.jpg"
+            },
+            {    "id":"Uni2",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Uni3",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Uni4",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Uni5",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Uni6",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Uni7",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              }
+    
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Japan",
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "players": [
+            { "id":"Jap1",
+              "name":"Milos Micic",
+              "position":"attack",
+              "stats":{
+                  "goals":"5",
+                  "assists":"2"
+              },
+              "history":{
+                  "2019/20":{
+                      "team":"Komercijalna",
+                      "played":"20",
+                      "goals":"15",
+                      "assists":"12"
+
+                  },
+                  "2018/19":{
+                    "team":"Komercijalna",
+                    "played":"24",
+                    "goals":"12",
+                    "assists":"8"
+
+                },"2017/18":{
+                    "team":"Komercijalna",
+                    "played":"27",
+                    "goals":"10",
+                    "assists":"22"
+
+                }
+
+              },
+              "photo":"MilosMicic.jpg"
+            },
+            {   "id":"Jap2",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Jap3",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Jap4",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Jap5",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              {"id":"Jap6",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Jap7",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              }
+    
+          ]
+        },
+        {
+      
+          "name": "Uniqa",
+          "players": [
+            { "id":"Uni1",
+              "name":"Milos Micic",
+              "position":"attack",
+              "stats":{
+                  "goals":"5",
+                  "assists":"2"
+              },
+              "history":{
+                  "2019/20":{
+                      "team":"Komercijalna",
+                      "played":"20",
+                      "goals":"15",
+                      "assists":"12"
+
+                  },
+                  "2018/19":{
+                    "team":"Komercijalna",
+                    "played":"24",
+                    "goals":"12",
+                    "assists":"8"
+
+                },"2017/18":{
+                    "team":"Komercijalna",
+                    "played":"27",
+                    "goals":"10",
+                    "assists":"22"
+
+                }
+
+              },
+              "photo":"MilosMicic.jpg"
+            },
+            {   "id":"Uni2",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Uni3",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Uni4",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Uni5",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Uni6",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Uni7",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              }
+    
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Raiffeisen",
+          "players": [
+            { "id":"Rai1",
+              "name":"Milos Micic",
+              "position":"attack",
+              "stats":{
+                  "goals":"5",
+                  "assists":"2"
+              },
+              "history":{
+                  "2019/20":{
+                      "team":"Komercijalna",
+                      "played":"20",
+                      "goals":"15",
+                      "assists":"12"
+
+                  },
+                  "2018/19":{
+                    "team":"Komercijalna",
+                    "played":"24",
+                    "goals":"12",
+                    "assists":"8"
+
+                },"2017/18":{
+                    "team":"Komercijalna",
+                    "played":"27",
+                    "goals":"10",
+                    "assists":"22"
+
+                }
+
+              },
+              "photo":"MilosMicic.jpg"
+            },
+            {   "id":"Rai2",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Rai3",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Rai4",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Rai5",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Rai6",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Rai7",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              }
+    
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Bosch",   
+          "players": [
+            { "id":"Bos1",
+              "name":"Milos Micic",
+              "position":"attack",
+              "stats":{
+                  "goals":"5",
+                  "assists":"2"
+              },
+              "history":{
+                  "2019/20":{
+                      "team":"Komercijalna",
+                      "played":"20",
+                      "goals":"15",
+                      "assists":"12"
+
+                  },
+                  "2018/19":{
+                    "team":"Komercijalna",
+                    "played":"24",
+                    "goals":"12",
+                    "assists":"8"
+
+                },"2017/18":{
+                    "team":"Komercijalna",
+                    "played":"27",
+                    "goals":"10",
+                    "assists":"22"
+
+                }
+
+              },
+              "photo":"MilosMicic.jpg"
+            },
+            {   "id":"Bos2",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Bos3",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Bos4",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Bos5",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Bos6",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Bos7",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              }
+    
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Parking",
+          "players": [
+            { "id":"Par1",
+              "name":"Milos Micic",
+              "position":"attack",
+              "stats":{
+                  "goals":"5",
+                  "assists":"2"
+              },
+              "history":{
+                  "2019/20":{
+                      "team":"Komercijalna",
+                      "played":"20",
+                      "goals":"15",
+                      "assists":"12"
+
+                  },
+                  "2018/19":{
+                    "team":"Komercijalna",
+                    "played":"24",
+                    "goals":"12",
+                    "assists":"8"
+
+                },"2017/18":{
+                    "team":"Komercijalna",
+                    "played":"27",
+                    "goals":"10",
+                    "assists":"22"
+
+                }
+
+              },
+              "photo":"MilosMicic.jpg"
+            },
+            {   "id":"Par2",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Par3",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Par4",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Par5",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Par6",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Par7",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              }
+    
+          ]
+        },
+    {
+          "id": 8,
+          "name": "Ibis",
+          "players": [
+            { "id":"Ibi1",
+              "name":"Milos Micic",
+              "position":"attack",
+              "stats":{
+                  "goals":"5",
+                  "assists":"2"
+              },
+              "history":{
+                  "2019/20":{
+                      "team":"Komercijalna",
+                      "played":"20",
+                      "goals":"15",
+                      "assists":"12"
+
+                  },
+                  "2018/19":{
+                    "team":"Komercijalna",
+                    "played":"24",
+                    "goals":"12",
+                    "assists":"8"
+
+                },"2017/18":{
+                    "team":"Komercijalna",
+                    "played":"27",
+                    "goals":"10",
+                    "assists":"22"
+
+                }
+
+              },
+              "photo":"MilosMicic.jpg"
+            },
+            {   "id":"Ibi2",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Ibi3",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Ibi4",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Ibi5",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Ibi6",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              },
+              { "id":"Ibi7",
+                "name":"Petar Petrovic",
+                "position":"attack",
+                "stats":{
+                    "goals":"5",
+                    "assists":"2"
+                },
+                "history":{
+                    "2019/20":{
+                        "team":"Komercijalna",
+                        "played":"20",
+                        "goals":"15",
+                        "assists":"12"
+  
+                    },
+                    "2018/19":{
+                      "team":"Komercijalna",
+                      "played":"24",
+                      "goals":"12",
+                      "assists":"8"
+  
+                  },"2017/18":{
+                      "team":"Komercijalna",
+                      "played":"27",
+                      "goals":"10",
+                      "assists":"22"
+  
+                  }
+  
+                },
+                "photo":"PetarPetrovic.jpg"
+              }
+    
+          ]
+        }
+       
+     
+    ]
+    }

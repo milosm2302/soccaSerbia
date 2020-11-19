@@ -1,0 +1,105 @@
+.home{
+    margin-top: 2px;
+    height: calc(87vh - 2px);
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+}
+.background-img{
+    grid-row: 1/-1;
+    grid-column: 1/-1;
+    margin-top: 2px;
+    background-color:#0f4371fd;
+    background-image: url('../img/player.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 35%;
+   position: relative;
+}
+.background-img:after{
+    grid-row: 1/-1;
+    grid-column: 1/-1;
+    content: "";
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background-image: url('../img/back.jpg');
+   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    opacity: 0.1;
+ 
+}
+.home-text{
+    grid-row: 3/9;
+    grid-column: 3/12;
+    z-index: 10;
+    flex:1;
+    text-align: center;
+    display: flex;
+    
+}
+.home-text h1 {
+    font-size: 5.5rem;
+    color: rgb(250, 250, 250);
+    
+    letter-spacing: 2rem;
+}
+.home-text-description{
+    grid-row: 7/10;
+    grid-column: 3/9;
+    z-index: 10;
+}
+.home-text-description p{
+    font-size: 1.5rem;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    line-height: 2;
+}
+.button{
+    z-index: 10;
+    background-color:#FC3C3C ;
+    grid-row: 11/12;
+    grid-column: 3/5;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.button span{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
+.social-media-text{
+    z-index: 10;
+    grid-row: 10/11;
+    grid-column: 10/11;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.social-media-text span{
+    color: white;
+    font-style: italic;
+    font-size: 1.1rem;
+    
+}
+.social-media-icons{
+    z-index: 10;
+    grid-row: 11/12;
+    grid-column: 10/12;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.social-media-icons img{
+    height: 2rem;
+    padding-right:1rem;
+    cursor: pointer;
+}

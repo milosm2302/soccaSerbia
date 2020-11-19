@@ -1,0 +1,298 @@
+{
+"teams": [
+    {
+      "id": 1,
+      "name": "Komercijalna",
+      "logo": "hawks.png",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "players": [
+        { "id":"Kom1",
+          "name":"Milos Micic"
+          
+        },
+        {
+          "id":"Kom2",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Kom3",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Kom4",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Kom5",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Kom6",
+          "name":"Petar Petrovic"
+        },
+         {
+          "id":"Kom7",
+          "name":"Petar Petrovic"
+        }
+
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Unicredit",   
+      "logo": "celtics.png",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "players": [
+        {
+          "id":"Uni1",
+          "name":"Milos Micic"
+        },
+        {
+           "id":"Uni2",
+           "name":"Petar Petrovic"
+        },
+        {
+          "id":"Uni3",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Uni4",
+           "name":"Petar Petrovic"
+        },
+        {
+          "id":"Uni5",
+           "name":"Petar Petrovic"
+        },
+        {
+          "id":"Uni6",
+           "name":"Petar Petrovic"
+        },
+         {
+          "id":"Uni7",
+          "name":"Petar Petrovic"
+        }
+
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Japan",
+      "logo": "hornets.png",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "players": [
+        { 
+          "id":"Jap1",
+          "name":"Milos Micic"
+        },
+        {
+          "id":"Jap1",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Jap2",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Jap3",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Jap4",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Jap5",
+          "name":"Petar Petrovic"
+        },
+         {
+          "id":"Jap6",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Jap7",
+          "name":"Petar Petrovic"
+        }
+
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Uniqa",
+      "logo": "hornets.png",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "players": [
+        {
+          "id":"Uni1",
+          "name":"Milos Micic"
+        },
+        {
+          "id":"Uni2",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Uni3",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Uni4",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Uni5",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Uni6",
+          "name":"Petar Petrovic"
+        },
+         {
+          "id":"Uni7",
+          "name":"Petar Petrovic"
+        }
+
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Raiffeisen",
+      "logo": "hornets.png",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "players": [
+        {
+          "id":"Rai1",
+          "name":"Milos Micic"
+        },
+        {
+          "id":"Rai2",
+            "name":"Petar Petrovic"
+        },
+        {
+          "id":"Rai3",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Rai4",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Rai5",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Rai6",
+          "name":"Petar Petrovic"
+        },
+         {
+          "id":"Rai7",
+          "name":"Petar Petrovic"
+        }
+
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Bosch",    
+      "logo": "cavaliers.png",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "players": [
+        {
+          "id":"Bos1",
+          "name":"Milos Micic"
+        },
+        {
+          "id":"Bos2",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Bos3",
+           "name":"Petar Petrovic"
+        },
+        {
+          "id":"Bos4",
+           "name":"Petar Petrovic"
+        },
+        {
+          "id":"Bos5",
+           "name":"Petar Petrovic"
+        },
+        {
+          "id":"Bos6",
+           "name":"Petar Petrovic"
+        },
+         {
+          "id":"Bos7",
+           "name":"Petar Petrovic"
+        }
+
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Parking",    
+      "logo": "mavericks.png",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "players": [
+        {
+          "id":"Par1",
+          "name":"Milos Micic"
+        },
+        {
+          "id":"Par2",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Par3",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Par4",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Par5",
+          "name":"Petar Petrovic"
+        },
+        {
+          "id":"Par6",
+          "name":"Petar Petrovic"
+        },
+         {
+          "id":"Par7",
+          "name":"Petar Petrovic"
+        }
+
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ibis",
+      "logo": "mavericks.png",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "players": [
+        { "id":"Ibi1",
+          "name":"Milos Micic"
+        },
+        { "id":"Ibi2",
+          "name":"Petar Petrovic"
+        },
+        { "id":"Ibi3",
+          "name":"Petar Petrovic"
+        },
+        { "id":"Ibi4",
+          "name":"Petar Petrovic"
+        },
+        { "id":"Ibi5",
+          "name":"Petar Petrovic"
+        },
+        { "id":"Ibi6",
+          "name":"Petar Petrovic"
+        },
+         {"id":"Ibi7",
+          "name":"Petar Petrovic"
+        }
+
+      ]
+    }
+
+]
+}
